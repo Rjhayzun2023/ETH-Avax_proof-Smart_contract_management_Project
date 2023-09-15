@@ -1,6 +1,6 @@
 # Starter Next/Hardhat Project
 
-After cloning the github, you will want to do the following to get the code running on your computer.
+Inside the gitpod, you will want to do the following to get the code running on your computer.
 
 1. Inside the project directory, in the terminal type: npm i
 2. Open two additional terminals in your VS code
@@ -10,3 +10,9 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+Addionally:
+
+1. Make your hardhat port public to access `https://8545-metacrafterc-scmstarter-msotxik1s10.ws-us104.gitpod.io` for the RPC url.
+2. Set up your metamask: make sure you have the account 0 as an account, you should also make a new net work using the RPC url above.
+3. Once set up you can run your code and try my codes.
