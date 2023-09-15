@@ -15,4 +15,5 @@ Addionally:
 
 1. Make your hardhat port public to access `https://8545-metacrafterc-scmstarter-msotxik1s10.ws-us104.gitpod.io` for the RPC url.
 2. Set up your metamask: make sure you have the account 0 as an account, you should also make a new net work using the RPC url above.
-3. Once set up you can run your code and try my codes.
+3. Make use of 31337 for Chian ID & ETH for Currencey Symbol. Save your network and change into that network.
+4. Once set up you can run your code and try my codes.
